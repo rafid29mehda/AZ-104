@@ -27,9 +27,13 @@ The **AZ-104: Microsoft Azure Administrator** exam covers several modules, each 
 
 Remember, these modules cover essential skills for an Azure administrator. Good luck with your exam preparation! 🌟👩‍💻
 
-Source: Conversation with Bing, 2/12/2024
+Source:
 (1) Exam AZ-104: Microsoft Azure Administrator - Certifications. https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/.
+
 (2) Microsoft Azure Administrator AZ-104 Study Guide - Test Prep Training. https://www.testpreptraining.com/blog/az-104-study-guide/.
+
 (3) Study guide for Exam AZ-104: Microsoft Azure Administrator. https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104.
+
 (4) Study guide for Exam AZ-104: Microsoft Azure Administrator. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy.
+
 (5) AZ-104: Microsoft Azure Administrator - Full Course | Udemy. https://www.udemy.com/course/exam-az-104-microsoft-azure-administrator/.
